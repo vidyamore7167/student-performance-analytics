@@ -135,8 +135,8 @@ This project demonstrates how Python, Pandas, and NumPy can be used to preproces
 
 ## 13. Author
 
-**Name:** [Your Name]  
-**Department:** [Your Department]
+**Name:** VIDYA MAHADEV MORE
+**Department:** ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
 
 ## 14. GitHub Repository
 
